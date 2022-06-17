@@ -1,9 +1,4 @@
 /**
- * @param {number[]} nums
- * @return {number}
- */
-
-/**
 26. Remove Duplicates from Sorted Array
  * @param {number[]} nums
  * @return {number}
